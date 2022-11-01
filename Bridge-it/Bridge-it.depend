@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667313131 source:f:\program files (x86)\codeblocks\codes\bridge-it\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+
